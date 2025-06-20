@@ -1,4 +1,4 @@
-<img src="https://nakafa.com/logo.svg" align="left" width="200" style="border-radius: 12px;" />
+<img src="https://nakafa.com/logo.svg" align="left" width="200" style="border-radius: 50%;" />
 
 ### `Nakafa`
 
